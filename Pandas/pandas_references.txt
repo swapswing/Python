@@ -1,0 +1,8 @@
+csv file reference using link
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+
+
+
+html file reference for pandas
+https://www.basketball-reference.com/leagues/NBA_2015_totals.html
